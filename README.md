@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bocoul
-- 👀 I’m interested in machine learning, python, javascript, html, css, java, vb, c
+- 👀 I’m interested in machine learning, python, javascript, html, css, java, vb, c, autoit
 - 🌱 I’m currently learning machine learning and  i want  to improve my english.
 - 💞️ I’m looking to collaborate on a deep learning project
 - 📫 How to reach me? send  a message  on this  plaform ...
